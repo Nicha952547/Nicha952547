@@ -14,6 +14,11 @@ Welcome to my space where I showcase my passion and my work.
     * 💻 **Application & Data:** Python, Java
     * 🌐 **Web:** HTML, CSS, PHP
     * ⚙️ **Low-Level/Hardware:** C
+###  
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C89?style=for-the-badge&logo=mysql&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 * **System Design:** Understanding how IoT and code connect together. I plan and design **Data flow**, **Work flow**, and **Flowcharts**.
 * **Feasibility Study:** Always testing if an idea is practical and scalable.
 
